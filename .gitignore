@@ -381,3 +381,9 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/c++,visualstudio
+
+# Add setup
+
+*.sln
+*.vcxproj
+*.filters

@@ -50,6 +50,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. deuJudge1043
 * Lavida
     1. lavida1089
+    1. lavida1070
     1. lavida1746
 * BOJ
 

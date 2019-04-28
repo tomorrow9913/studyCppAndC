@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	int sizeMap, scrMap[17] = { 0, }, mapKey[17] = { 0, }, resultMap[] = { 0, };
+	int sizeMap, scrMap[17] = { 0, }, mapKey[17] = { 0, }, resultMap[17] = { 0, };
 
 	scanf("%d", &sizeMap);
 	for (int i = 0; i < sizeMap; i++)
@@ -12,11 +12,11 @@ int main() {
 	for (int i = 0; i < sizeMap; i++)
 	{
 		resultMap[i] = scrMap[i] |= mapKey[i];
-
+		
 		int position = 0;
-		int binary[] = { 0, };
+		int binary[6] = { 0, };
 
-		while (resultMap[i])
+		while (resultMap[i] != 0)
 		{
 			binary[position] = resultMap[i] % 2;
 			resultMap[i] = resultMap[i] / 2;
@@ -25,7 +25,7 @@ int main() {
 		}
 
 		for (int j = position - 1; j < 0; i--)
-		{
+		{	
 			if (binary[j] == 0) {
 				printf(" ");
 			}

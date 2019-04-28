@@ -1,4 +1,4 @@
-#studyCAndCpp Repositories
+#studyCAndCpp_Repositories
 
 > c와 cpp를 학습하며 해결한 온라인 저지 문제들을 정리한 문서입니다.
 

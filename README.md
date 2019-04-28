@@ -1,8 +1,8 @@
-#studyCAndCpp_Repositories
+# studyCAndCpp_Repositories
 
 > c와 cpp를 학습하며 해결한 온라인 저지 문제들을 정리한 문서입니다.
 
-###사용하는 저지 시스템
+### 사용하는 저지 시스템
 문제 해결에 이용하는 온라인 저지 시스템으로는 다음과 같습니다.
 
 * [학교 온라인 저지](http://judge.aoikazto.com)
@@ -78,4 +78,5 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. BOJ10869
     1. BOJ10998
     1. BOJ11664
+    
 _백준 10172는 BOJ\_dog로 저장되어 있습니다._

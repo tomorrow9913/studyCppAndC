@@ -12,7 +12,7 @@ int main() {
 	for (int i = 0; i < sizeMap; i++)
 	{
 		resultMap[i] = scrMap[i] |= mapKey[i];
-		
+
 		int position = 0;
 		int binary[6] = { 0, };
 
@@ -24,9 +24,9 @@ int main() {
 			position++;
 		}
 
-		for (int j = position - 1; j < 0; i--)
-		{	
-			if (binary[j] == 0) {
+		while (position--) {
+
+			if (binary[position] == 0) {
 				printf(" ");
 			}
 			else {

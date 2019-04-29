@@ -23,6 +23,8 @@ int main() {
 
 			position++;
 		}
+		
+		position = sizeMap;
 
 		printf("[");
 		while (position--) {

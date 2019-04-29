@@ -47,7 +47,6 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. deuJudge1021
     1. deuJudge1023
     1. deuJudge1030
-    1. deuJudge1043
 * Lavida
     1. lavida1089
     1. lavida1070

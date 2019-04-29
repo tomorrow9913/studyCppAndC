@@ -24,8 +24,8 @@ int main() {
 			position++;
 		}
 
+		printf("[");
 		while (position--) {
-
 			if (binary[position] == 0) {
 				printf(" ");
 			}
@@ -34,6 +34,6 @@ int main() {
 			}
 		}
 
-		printf("\n");
+		printf("]\n");
 	}
 }

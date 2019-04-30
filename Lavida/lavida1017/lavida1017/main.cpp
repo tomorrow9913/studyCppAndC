@@ -21,7 +21,7 @@ int main() {
 			yResult = resultTemp*1.0 / yTemp;
 			xResult = num1 - b*yResult;
 
-			printf("%.2lf %.2lf\n", xResult, yResult);
+			printf("%.2f %.2f\n", xResult, yResult);
 		}
 	}
 }

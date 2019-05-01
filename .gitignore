@@ -387,3 +387,6 @@ MigrationBackup/
 *.sln
 *.vcxproj
 *.filters
+*.xml
+*.json
+*.iml

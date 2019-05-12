@@ -23,17 +23,17 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
 ### 폴더 구조
 
 * Projects
-    * deuJudge
+    * [deuJudge](./tree/master/deuJudge)
         * deuJudge0000
         * deuJudge0000
         * deuJudge0000
         * **...**
-    * Lavida
+    * [Lavida](./tree/master/BOJ)
         * lavida0000
         * lavida0000
         * lavida0000
         * **...**
-    * BOJ
+    * [BOJ](./tree/master/BOJ)
         * BOJ0000
         * BOJ0000
         * BOJ0000
@@ -43,8 +43,8 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
 
 ### 해결한 문항
 ***`ctr`+ `F`로 페이지 내 검색을 사용할 수 있습니다.***
-* deuJudge
 
+* deuJudge - 45 문항
     1. deuJudge1000
     1. deuJudge1002
     1. deuJudge1006
@@ -91,64 +91,66 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. deuJudge1063
     1. deuJudge1065
 
-* Lavida
-    1. laivda1000
-    1. laivda1004
-    1. laivda1005
-    1. laivda1006
-    1. laivda1007
-    1. laivda1009
-    1. laivda1020
-    1. laivda1027
-    1. laivda1038
-    1. laivda1039
-    1. laivda1042
-    1. laivda1091
-    1. laivda1092
-    1. laivda1127
-    1. laivda1169
-    1. laivda1704
-    1. laivda1705
-    1. laivda1708
-    1. laivda1709
-    1. laivda1710
-    1. laivda1711
-    1. laivda1712
-    1. laivda1713
-    1. laivda1714
-    1. laivda1715
-    1. laivda1718
-    1. laivda1719
-    1. laivda1725
-    1. laivda1727
-    1. laivda1738
-    1. laivda1743
-    1. laivda1744
-    1. laivda1745
-    1. laivda1801
-    1. laivda1994
-    1. laivda2086
-    1. laivda2087
-    1. laivda2088
-    1. laivda2089
-    1. laivda2090
-    1. laivda2091
-    1. laivda2093
+* Lavida - 57문항
+    1. lavida1000
+    1. lavida1004
+    1. lavida1005
+    1. lavida1006
+    1. lavida1007
+    1. lavida1009
+    1. lavida1015
+    1. lavida1020
+    1. lavida1027
+    1. lavida1038
+    1. lavida1039
+    1. lavida1042
+    1. lavida1091
+    1. lavida1092
+    1. lavida1127
+    1. lavida1169
+    1. lavida1704
+    1. lavida1705
+    1. lavida1708
+    1. lavida1709
+    1. lavida1710
+    1. lavida1711
+    1. lavida1712
+    1. lavida1713
+    1. lavida1714
+    1. lavida1715
+    1. lavida1718
+    1. lavida1719
+    1. lavida1725
+    1. lavida1727
+    1. lavida1738
+    1. lavida1739
+    1. lavida1743
+    1. lavida1744
+    1. lavida1745
+    1. lavida1801
+    1. lavida1994
+    1. lavida2086
+    1. lavida2087
+    1. lavida2088
+    1. lavida2089
+    1. lavida2090
+    1. lavida2091
+    1. lavida2093
     1. lavida2095
-    1. laivda2343
-    1. laivda2381
-    1. laivda2385
-    1. laivda2386
-    1. laivda2387
-    1. laivda2388
-    1. laivda2404
-    1. laivda2783
-    1. laivda2784
-    1. laivda2785
-    1. laivda2786
-    1. laivda2787
+    1. lavida2343
+    1. lavida2381
+    1. lavida2385
+    1. lavida2386
+    1. lavida2387
+    1. lavida2388
+    1. lavida2404
+    1. lavida2783
+    1. lavida2784
+    1. lavida2785
+    1. lavida2786
+    1. lavida2787
 
-* BOJ
+* BOJ - 17문항
     1. BOJ1000
     1. BOJ1001
     1. BOJ1008

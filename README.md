@@ -23,17 +23,17 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
 ### 폴더 구조
 
 * Projects
-    * [deuJudge](./tree/master/deuJudge)
+    * [deuJudge](https://github.com/tomorrow9913/studyCppAndC/tree/master/deuJudge)
         * deuJudge0000
         * deuJudge0000
         * deuJudge0000
         * **...**
-    * [Lavida](./tree/master/BOJ)
+    * [Lavida](https://github.com/tomorrow9913/studyCppAndC/tree/master/BOJ)
         * lavida0000
         * lavida0000
         * lavida0000
         * **...**
-    * [BOJ](./tree/master/BOJ)
+    * [BOJ](https://github.com/tomorrow9913/studyCppAndC/tree/master/BOJ)
         * BOJ0000
         * BOJ0000
         * BOJ0000

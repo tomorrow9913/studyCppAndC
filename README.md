@@ -6,7 +6,7 @@
 문제 해결에 이용하는 온라인 저지 시스템으로는 다음과 같습니다.
 
 * [학교 온라인 저지](http://judge.aoikazto.com)
-* [Lavida 온라인 저지](https://judge.lavida.us)
+* [Lavida 온라인 저지](https://lavida.us)
 * [백준 온라인 저지](https://www.acmicpc.net) 
 
 ### 파일 작명 규칙
@@ -91,7 +91,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. deuJudge1063
     1. deuJudge1065
 
-* Lavida - 66문항
+* Lavida - 70문항
     1. lavida1000
     1. lavida1004
     1. lavida1005
@@ -110,6 +110,8 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida1042
     1. lavida1043
     1. lavida1044
+    1. lavida1045
+    1. lavida1060
     1. lavida1089
     1. lavida1091
     1. lavida1092
@@ -146,6 +148,8 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida2091
     1. lavida2093
     1. lavida2095
+    1. lavida2138
+    1. lavida2139
     1. lavida2343
     1. lavida2381
     1. lavida2385

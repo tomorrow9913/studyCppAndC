@@ -11,7 +11,7 @@ int main() {
         scanf("%d %d", &a, &b);
 
         int count = 0;
-        for (int i = a; i < b; ++i) {
+        for (int i = a; i <= b; ++i) {
             count += IsPrime(i);
         }
         printf("%d\n", count);

@@ -1,38 +1,32 @@
 #include <stdio.h>
+int main(void) {
+    int sc, sum, num, testcase;
+    double avg;
 
-int main() {
-    int testCase;
-    scanf("%d", &testCase);
+    scanf("%d", &testcase);
 
-    while (testCase--){
-        int n, score[51]= { 0, };
-        scanf("%d", &n);
+    while (testcase--) {
+        scanf("%d", &num);
 
-        for (int i = 0; i < n; i++) {
-            int *num = &score[i];
-            scanf("%d", num);
-        }
-
-        int temp = 0;
-        for (int k = 0; k < n; ++k) {
-            for (int a = 0; a < n-1; ++a) {
-                if (score[a+1] > score[a]){
-                    temp = score[a];
-                    score[a]= score[a+1];
-                    score[a+1]= temp;
-                }
+        int min = 2000;
+        int max = -1000;
+        sum = 0;
+        for (int i = 0; i < num; i++) {
+            scanf("%d", &sc);
+            sum += sc;
+            if (min > sc) {
+                min = sc;
+            }
+            if (max < sc) {
+                max = sc;
             }
         }
 
-        long int sum = 0;
-        for (int j = 1; j < n-1; ++j) {
-            sum += score[j];
-        }
-
-        double averScore;
-        averScore = (double)sum / (n-2);
-
-        printf("%.2lf\n", averScore);
+        sum = sum - max - min;
+        avg = (double)sum / (num- 2);
+        avg = (int)(avg*100.0 + 0.5) / 100.0;
+        printf("%.2f\n", avg);
     }
+
     return 0;
 }

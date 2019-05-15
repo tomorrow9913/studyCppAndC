@@ -91,7 +91,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. deuJudge1063
     1. deuJudge1065
 
-* Lavida - 70문항
+* Lavida - 76문항
     1. lavida1000
     1. lavida1004
     1. lavida1005
@@ -101,6 +101,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida1015
     1. lavida1018
     1. lavida1020
+    1. lavida1025
     1. lavida1027
     1. lavida1037
     1. lavida1038
@@ -112,6 +113,10 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida1044
     1. lavida1045
     1. lavida1060
+    1. lavida1082
+    1. lavida1085
+    1. lavida1086
+    1. lavida1087
     1. lavida1089
     1. lavida1091
     1. lavida1092
@@ -152,6 +157,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida2139
     1. lavida2343
     1. lavida2381
+    1. lavida2384
     1. lavida2385
     1. lavida2386
     1. lavida2387

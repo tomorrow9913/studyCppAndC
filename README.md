@@ -2,6 +2,10 @@
 
 > c와 cpp를 학습하며 해결한 온라인 저지 문제들을 정리한 문서입니다.
 
+### 참고시 유의사항
+저의 코드는 c를 처음 배우는 사람이 작성한 해결하기 위한 하나의 방법이지 최고의 해결법은 아닙니다. 
+참고용으로만 사용해 주시고 복사와 붙여넣기 같은 방식으로 단순히 맞춘 문제수 채우기 위한 용도로 사용하지 마시기 바랍니다.
+
 ### 사용하는 저지 시스템
 문제 해결에 이용하는 온라인 저지 시스템으로는 다음과 같습니다.
 
@@ -44,7 +48,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
 ### 해결한 문항
 ***`ctr`+ `F`로 페이지 내 검색을 사용할 수 있습니다.***
 
-* deuJudge - 45 문항
+* deuJudge - 49 문항
     1. deuJudge1000
     1. deuJudge1002
     1. deuJudge1006
@@ -86,12 +90,17 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. deuJudge1055
     1. deuJudge1056
     1. deuJudge1057
+    1. deuJudge1058
     1. deuJudge1061
     1. deuJudge1062
     1. deuJudge1063
     1. deuJudge1065
+    1. deuJudge1067
+    1. deuJudge1068
+    1. deuJudge1069
 
-* Lavida - 102문항
+
+* Lavida - 113문항
     1. lavida1000
     1. lavida1004
     1. lavida1005
@@ -100,8 +109,10 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida1008
     1. lavida1009
     1. lavida1015
+    1. lavida1017
     1. lavida1018
     1. lavida1020
+    1. lavida1022
     1. lavida1024
     1. lavida1025
     1. lavida1027
@@ -117,6 +128,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida1046
     1. lavida1047
     1. lavida1048
+    1. lavida1055
     1. lavida1059
     1. lavida1060
     1. lavida1061
@@ -129,6 +141,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida1091
     1. lavida1092
     1. lavida1127
+    1. lavida1137
     1. lavida1169
     1. lavida1170
     1. lavida1400
@@ -157,9 +170,11 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida1745
     1. lavida1752
     1. lavida1769
+    1. lavida1770
     1. lavida1771
     1. lavida1791
     1. lavida1801
+    1. lavida1908
     1. lavida1994
     1. lavida1995
     1. lavida1996
@@ -175,6 +190,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida2094
     1. lavida2095
     1. lavida2096
+    1. lavida2097
     1. lavida2128
     1. lavida2138
     1. lavida2139
@@ -194,6 +210,10 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. lavida2785
     1. lavida2786
     1. lavida2787
+    1. lavida2788
+    1. lavida2789
+    1. lavida2790
+    1. lavida2791
 
 * BOJ - 17문항
     1. BOJ1000
@@ -217,4 +237,4 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     
 _백준 10172는 BOJ\_dog로 저장되어 있습니다._
 
-**이 목록에 없는 문항은 해결하지 못한 문항입니다. 해결문항에 있으나 해당 폴더에 코드가 없는 경우 이슈로 남겨주세요.***
+**이 목록에 없는 문항은 해결하지 못한 문항입니다. 해결문항에 있으나 해당 폴더에 코드가 없는 경우 이슈로 남겨주세요.**

@@ -11,6 +11,7 @@ int main() {
         scanf("%d %d", &size, &thick);
 
         PrintStar(size, thick);
+        printf("\n");
     }
     return 0;
 }

@@ -5,20 +5,20 @@
 int main() {
     int testCase, count = 1;
     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE),11);
-    printf("    /￣/         /￣/    /￣￣￣￣/   /￣￣￣/");
-    printf("   /  /          ￣     /   /￣￣￣  /  /￣￣");
-    printf("  /  /         /￣/    /    ￣￣/   /   ￣￣/");
-    printf(" /  /_____    /  /    /   /￣￣    /  /￣￣");
-    printf("/_________/  /__/    /__ /        /   ￣￣/");
-    printf("                                  ￣￣￣￣");
-    printf("              /￣￣￣/     /￣￣\\     |￣\\  /￣|      /￣￣￣/");
-    printf("             /  /￣￣     /  /\\  \\    | \\ \\/ / |     /  /￣￣");
-    printf("             | \\    __   /   ￣   \\   | |\\__/| |    /   ￣￣/");
-    printf("             \\  \\___||  /  /￣￣\\  \\  | |    | |   /  /￣￣");
-    printf("              \\______/ /__/      \\__\\ |_|    |_|  /   ￣￣/");
-    printf("                                                  ￣￣￣￣");
+    printf("\n      /￣/         /￣/    /￣￣￣￣/   /￣￣￣/\n");
+    printf("     /  /          ￣     /   /￣￣￣  /  /￣￣\n");
+    printf("    /  /         /￣/    /    ￣￣/   /   ￣￣/\n");
+    printf("   /  /_____    /  /    /   /￣￣    /  /￣￣\n");
+    printf("  /_________/  /__/    /__ /        /   ￣￣/\n");
+    printf("                                    ￣￣￣￣\n");
+    printf("              /￣￣￣/     /￣￣\\     |￣\\  /￣|      /￣￣￣/\n");
+    printf("             /  /￣￣     /  /\\  \\    | \\ \\/ / |     /  /￣￣\n");
+    printf("             | |    __   /   ￣   \\   | |\\__/| |    /   ￣￣/\n");
+    printf("             \\  \\___||  /  /￣￣\\  \\  | |    | |   /  /￣￣\n");
+    printf("              \\______/ /__/      \\__\\ |_|    |_|  /   ￣￣/\n");
+    printf("                                                  ￣￣￣￣\n");
     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE),7);
-    _sleep(100);
+    _sleep(1500);
     system("cls");
 
     printf("Enter Generation (-1 is infinite) : ");

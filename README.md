@@ -48,7 +48,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
 ### 해결한 문항
 ***`ctr`+ `F`로 페이지 내 검색을 사용할 수 있습니다.***
 
-* deuJudge - 51 문항
+* deuJudge - 55 문항
     1. deuJudge1000
     1. deuJudge1002
     1. deuJudge1006
@@ -64,6 +64,7 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. deuJudge1017
     1. deuJudge1018
     1. deuJudge1019
+    1. deuJudge1023
     1. deuJudge1024
     1. deuJudge1025
     1. deuJudge1026
@@ -100,9 +101,13 @@ deuJudge(문항번호)|lavida(문항번호)|BOJ(문항번호)|없음|
     1. deuJudge1069
     1. deuJudge1071
     1. deuJudge1073
+    1. deuJudge1074
+    1. deuJudge1075
+    1. deuJudge1076
 
 
-* Lavida - 147 문항
+
+* Lavida - 149 문항
     1. lavida1000
     1. lavida1004
     1. lavida1005

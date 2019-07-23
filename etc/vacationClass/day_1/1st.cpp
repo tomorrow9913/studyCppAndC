@@ -1,64 +1,51 @@
-#include <stdio.h>
-#include <algorithm>
+#include <iostream>
 
-#define false   0
-#define true    1
+using namespace std;
+
 #define MAX 100001
+#define MAXNUM 100001
 
-int card[MAX];
-int serch[MAX];
- 
-int twoserch(int left, int right, int serchnum){
-    int mid = (left + right) / 2;
-    int result;
-    if (left > right)
-        return false;
-    else {
-        if (card[mid] > serchnum){
-            result = twoserch(left, mid - 1, serchnum);
-        }
-        else if (card[mid] < serchnum)
-        {
-            result = twoserch(mid + 1, right, serchnum);
-        }
-        else{
-            return true;
-        
-        }
- 
-        return result;
+void prepare(int pre[], int arr[], int Num)
+{
+    int i;
+    for (i = 0; i < Num; i++)
+    {
+        pre[arr[i]] = 1;
     }
 }
- 
-int main(void){
- 
- 
-    int N, M;
- 
-    scanf("%d", &N);
- 
-    for (int i = 0; i < N; i++)
-        scanf("%d", &card[i]);
- 
-    scanf("%d", &M);
- 
-    for (int i = 0; i < M; i++)
-        scanf("%d", &serch[i]);
- 
-    std::sort(card, card + N);
- 
-    for (int i = 0; i < M; i++){
-        int searchNum = serch[i];
-        int left = 0, right = N - 1;
-        int mid;
-    
- 
-        if (twoserch(left, right, searchNum))
-            printf("1\n");
-        else
-            printf("0\n");
+
+int find(int pre[], int T)
+{
+    return pre[T];
+}
+
+int main()
+{
+    int A[MAX], size;
+    cin >> size;
+
+    for (int i = 0; i < size; i++)
+    {
+        cin >> A[i];
     }
- 
- 
+    int num, size2;
+    cin >> size2;
+
+    int pre[MAXNUM] = {0};
+    prepare(pre, A, size);
+
+    for (int i = 0; i < size2; i++)
+    {
+        cin >> num;
+        if (find(pre, num) == 1)
+        {
+            cout << "1" << endl;
+        }
+        else
+        {
+            cout << "0" << endl;
+        }
+    }
+
     return 0;
 }
